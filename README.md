@@ -3,7 +3,7 @@
 Network synced industry-proven GPU accelerated Hap video codec playback solution for Unity.<br>
 
 ![Playing 120 SD videos at once](https://dl.dropboxusercontent.com/s/b2mtso0zza3qq9r/hap_multiple_videos.png "")
-![Promo Video](https://www.youtube.com/watch?v=8MRP-jgj8KA&feature=emb_logo)
+[![Promo Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1645133956/video_to_markdown/images/youtube--8MRP-jgj8KA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=8MRP-jgj8KA&feature=emb_logo "Promo Video")
 
 # Useful links
 ## [Asset Store page](http://u3d.as/2KgC)
