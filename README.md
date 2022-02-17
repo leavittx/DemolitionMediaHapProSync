@@ -14,6 +14,9 @@ Network synced industry-proven GPU accelerated Hap video codec playback solution
 
 
 # Features:
+- Sync playback across multiple machines using UDP networking.<br>
+— Control video playback with your own clock source.<br>
+— Ability to manually specify current video frame index.<br>
 — Hardware accelerated Hap video playback without any external codecs installation needed. Both Hap and Hap Q are supported.<br>
 — Low CPU/memory usage. Frames are decompressed on the GPU.<br>
 — Play 4k @ 120 fps or 8k @ 60 fps or 10k @ 50fps videos, play multiple videos at once. Extremely fast frame-precise seeking.<br>
@@ -30,6 +33,6 @@ Network synced industry-proven GPU accelerated Hap video codec playback solution
 # Requirements
 — Unity 2019-2020.x<br>
 — Windows 8.1/10<br>
-— ~~OS X 10.9 and above~~<br>
+— DirectX 11<br>
 <br>
 This software uses code of <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html>LGPLv2.1</a> and its source can be downloaded <a href=https://github.com/DemolitionStudios/FFmpeg>here</a>
