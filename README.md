@@ -14,7 +14,7 @@ Network synced industry-proven GPU accelerated Hap video codec playback solution
 
 
 # Features:
-- Sync playback across multiple machines using UDP networking.<br>
+— Sync playback across multiple machines using UDP networking.<br>
 — Control video playback with your own clock source.<br>
 — Ability to manually specify current video frame index.<br>
 — Hardware accelerated Hap video playback without any external codecs installation needed. Both Hap and Hap Q are supported.<br>
