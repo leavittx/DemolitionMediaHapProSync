@@ -17,7 +17,7 @@ Network synced industry-proven GPU accelerated Hap video codec playback solution
 — Sync playback across multiple machines using UDP networking.<br>
 — Control video playback with your own clock source.<br>
 — Ability to manually specify current video frame index.<br>
-— Hardware accelerated Hap video playback without any external codecs installation needed. Both Hap and Hap Q are supported.<br>
+— Hardware accelerated Hap video playback without any external codecs installation needed. Hap, Hap Q, Hap Alpha, Hap Q Alpha, Hap R supported.<br>
 — Low CPU/memory usage. Frames are decompressed on the GPU.<br>
 — Play 4k @ 120 fps or 8k @ 60 fps or 10k @ 50fps videos, play multiple videos at once. Extremely fast frame-precise seeking.<br>
 — Frees your render and main threads: texture updating is done completely in background threads.<br>
