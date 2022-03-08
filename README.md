@@ -15,22 +15,23 @@ Network synced industry-proven GPU accelerated Hap video codec playback solution
 
 
 # Features:
-— Sync playback across multiple machines using UDP networking.<br>
-— Use Unity Timeline to control the playback.<br>
+— Hardware accelerated Hap video playback without any external codecs installation needed. **Hap, Hap Q, Hap Alpha, Hap Q Alpha, Hap R** supported.<br>
+— **Sync playback** across multiple machines using **UDP** networking.<br>
+— Use **Unity Timeline** to control the playback.<br>
 — Control video playback with your own clock source.<br>
 — Ability to manually specify current video frame index.<br>
-— Hardware accelerated Hap video playback without any external codecs installation needed. Hap, Hap Q, Hap Alpha, Hap Q Alpha, Hap R supported.<br>
+— **Seamless loop playback.**<br>
 — Low CPU/memory usage. Frames are decompressed on the GPU.<br>
-— Play 4k @ 120 fps or 8k @ 60 fps or 10k @ 50fps videos, play multiple videos at once. Extremely fast frame-precise seeking.<br>
-— Frees your render and main threads: texture updating is done completely in background threads.<br>
-— Multichannel audio support.<br>
-— Transparent videos with Hap Alpha, Hap Q Alpha and Hap R codecs. First plugin to support Hap Q Alpha / Hap R in Unity.<br>
+— Play **4k @ 120 fps, 8k @ 60 fps or 10k @ 60fps** videos, play multiple videos at once. Extremely fast frame-precise seeking.<br>
+— **Frees your render and main threads**: texture updating is done completely in background threads.<br>
+— **Multichannel audio** support.<br>
+— **Transparent videos** with Hap Alpha, Hap Q Alpha and Hap R codecs. First plugin to support Hap Q Alpha / Hap R in Unity.<br>
 — Chunked Hap support for even faster multi-threaded decoding.<br>
 — Non-multiple of 2 video resolutions. <br>
-— Windows/DX11 support. <br>
+— **Windows/DX11** support. <br>
 — Suits for both programmers and artists: C# API along with IMGUI/uGUI wrappers provided.<br>
 — Example scenes with the typical usage scenarios.<br>
-— Free demo version available.<br>
+— **Demo app** available.<br>
 
 # Requirements
 — Unity 2019-2020.x<br>
