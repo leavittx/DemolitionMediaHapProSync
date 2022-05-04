@@ -7,7 +7,7 @@ Network synced industry-proven GPU accelerated Hap video codec playback solution
 
 # Useful links
 ## [Asset Store page](http://u3d.as/2KgC)
-## [(new) Demo app](https://dl.orangedox.com/AuXq5EfVqrX8ItbUSJ)
+## [(new) Demo app](https://1drv.ms/u/s!AhRsdPdtJl1uhp0iZTZ6JptWHMPAtw?e=4xCn5S)
 ## [Documentation](https://docs.google.com/document/d/1p0n1moSTBEaannk-kJMdyh6gGQRvIqLtbG-3I-NII9w/edit?usp=sharing)
 ## [Unity forum thread](https://forum.unity.com/threads/released-demolition-media-hap-pro-sync-network-synced-gpu-video-playback.1249987/)
 ## [High quality encoder with new Hap R codec for Abode After Effects/Media Encoder](https://jokyohapencoder.com/)
