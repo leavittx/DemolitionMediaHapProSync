@@ -6,10 +6,11 @@ Network synced industry-proven GPU accelerated Hap video codec playback solution
 
 # Useful links
 ## [Asset Store page](http://u3d.as/2KgC)
-## [(new) Demo app](https://1drv.ms/u/s!AhRsdPdtJl1uhp0iZTZ6JptWHMPAtw?e=4xCn5S)
+## [Demo app](https://1drv.ms/u/s!AhRsdPdtJl1uhp0iZTZ6JptWHMPAtw?e=4xCn5S)
 ## [Documentation](https://docs.google.com/document/d/1p0n1moSTBEaannk-kJMdyh6gGQRvIqLtbG-3I-NII9w/edit?usp=sharing)
 ## [Unity forum thread](https://forum.unity.com/threads/released-demolition-media-hap-pro-sync-network-synced-gpu-video-playback.1249987/)
-## [High quality encoder with new Hap R codec for Abode After Effects/Media Encoder](https://jokyohapencoder.com/)
+## [(new) Standalone encoder with new Hap R codec + fully GPU Compute decoding support](https://github.com/DemolitionStudios/shutter-encoder)
+## [Encoder with new Hap R codec for Abode After Effects/Media Encoder](https://jokyohapencoder.com/)
 
 
 
@@ -33,8 +34,8 @@ Network synced industry-proven GPU accelerated Hap video codec playback solution
 — **Demo app** available.<br>
 
 # Requirements
-— Unity 2019-2020.x<br>
+— Unity 2019-2022.x<br>
 — Windows 8.1/10<br>
-— DirectX 11<br>
+— DirectX 11 / DirectX 12 / OpenGL / Vulkan<br>
 <br>
 This software uses code of <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html>LGPLv2.1</a> and its source can be downloaded <a href=https://github.com/DemolitionStudios/FFmpeg>here</a>
