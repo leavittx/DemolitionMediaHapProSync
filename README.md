@@ -20,6 +20,7 @@ Network synced industry-proven GPU accelerated Hap video codec playback solution
 — Use **Unity Timeline** to control the playback.<br>
 — Control video playback with your own clock source.<br>
 — Ability to manually specify current video frame index.<br>
+— **Reverse playback.**<br>
 — **Seamless loop playback.**<br>
 — Low CPU/memory usage. Frames are decompressed on the GPU.<br>
 — Play **4k @ 120 fps, 8k @ 60 fps or 10k @ 60fps** videos, play multiple videos at once. Extremely fast frame-precise seeking.<br>
