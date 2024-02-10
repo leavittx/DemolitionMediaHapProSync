@@ -5,7 +5,8 @@ Network synced industry-proven GPU accelerated Hap video codec playback solution
 [![Promo Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1645133956/video_to_markdown/images/youtube--8MRP-jgj8KA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=8MRP-jgj8KA&feature=emb_logo "Promo Video")
 
 # Useful links
-## [Asset Store page](http://u3d.as/2KgC)
+## [Asset Store page (windows)](http://u3d.as/2KgC)
+## [Asset Store page (linux)](https://assetstore.unity.com/packages/tools/video/demolition-media-hap-pro-sync-linux-271017)
 ## [Sample videos](https://mega.nz/folder/DAp1GThA#Iy-KDvLD-io6NOqW6WRKbQ)
 ## [Demo app](https://1drv.ms/u/s!AhRsdPdtJl1uhp0iZTZ6JptWHMPAtw?e=4xCn5S)
 ## [Documentation](https://docs.google.com/document/d/1p0n1moSTBEaannk-kJMdyh6gGQRvIqLtbG-3I-NII9w/edit?usp=sharing)
