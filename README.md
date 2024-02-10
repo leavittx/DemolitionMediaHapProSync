@@ -7,7 +7,7 @@ Network synced industry-proven GPU accelerated Hap video codec playback solution
 # Useful links
 ## [Asset Store page (windows)](http://u3d.as/2KgC)
 ## [Asset Store page (linux)](https://assetstore.unity.com/packages/tools/video/demolition-media-hap-pro-sync-linux-271017)
-## [Asset Store page (Pro GPU, windows)](http://u3d.as/2KgC](https://assetstore.unity.com/packages/tools/video/demolition-media-hap-pro-gpu-windows-273580)
+## [Asset Store page (Pro GPU, windows)](https://assetstore.unity.com/packages/tools/video/demolition-media-hap-pro-gpu-windows-273580)
 ## [Sample videos](https://mega.nz/folder/DAp1GThA#Iy-KDvLD-io6NOqW6WRKbQ)
 ## [Demo app](https://1drv.ms/u/s!AhRsdPdtJl1uhp0iZTZ6JptWHMPAtw?e=4xCn5S)
 ## [Documentation](https://docs.google.com/document/d/1p0n1moSTBEaannk-kJMdyh6gGQRvIqLtbG-3I-NII9w/edit?usp=sharing)
